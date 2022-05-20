@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: burlywood;
+}
+
+header img{
+     width:60px;
+height:70px;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+h1 img{
+    height:150px;
+    width:150px;
+
+
+}
+
+p img{
+    height:100px;
+    width:100px;
+
+
+
+
+}
+p {
+    font-size: 20px;
+}
+
+footer {
+    background-color: peru;
+    color: white;
+}
